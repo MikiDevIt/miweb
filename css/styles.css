@@ -1,0 +1,109 @@
+.head1 {
+    font-size:17px;
+    margin-left:10px;
+    margin-bottom:15px;
+    font-family: Calibri;
+}
+body {
+    margin: 0 auto;
+    background-position:center;
+    background-size: contain;
+}
+
+.menu {   
+    position: sticky;
+    top: 0;
+    background-color: #00AE49;
+    padding:3px 0px 3px 0px;
+    color:white;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.menu2 {   
+    position: sticky;
+    top: 0;
+    background-color:;
+    padding:3px 0px 3px 0px;
+    color:white;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.menu a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Calibri;
+}
+.menu-log {
+    right: auto;
+    float: right;
+    font-family: Calibri;
+}
+footer {
+    width: 100%;
+    bottom: 0px;
+    background-color: #000;
+    color: #fff;
+    position: absolute;
+    padding-top:20px;
+    padding-bottom:50px;
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+}
+.body_sec {
+    margin-left:19px;
+}
+
+p {
+    font-size: 19px;
+    font-family: Calibri;
+}
+
+li {
+    font-size: 19px;
+    font-family: Calibri;
+}
+
+.subtitulo {
+    font-weight:bold;
+}
+
+basico {
+    font-size: 30px;
+    font-family: Calibri;
+    text-align:center;
+    color: #00AE49;
+    font-weight:bold;
+}
+
+medio {
+    font-size: 30px;
+    font-family: Calibri;
+    text-align:center;
+    color:gold;
+    font-weight:bold;
+}
+
+avanzado {
+    font-size: 30px;
+    font-family: Calibri;
+    text-align:center;
+    color: red;
+    font-weight:bold;
+}   
+
+th, td {
+    padding: 30px;
+  }
+
+h1{
+    margin-bottom: 0px;
+}
+
+
+
